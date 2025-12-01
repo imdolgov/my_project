@@ -1,4 +1,4 @@
 мой проект в git!
 здесь буду работать с git
-третий коммит
+third коммит
 my code in github now
